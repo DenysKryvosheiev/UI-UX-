@@ -5,7 +5,7 @@
 #### img1(- 161 kB,1240х697, .jpeg) "фотографія"
 ![image](https://github.com/user-attachments/assets/00bfda6b-76a2-4911-9309-a2b8e993b510)
 #### img2(- 84.2 kB,920х871, .jpg) "графічне зображення з текстом"
-![image](https://github.com/user-attachments/assets/985a8aec-a831-4091-aaa8-8e6666317b4d)
+![image](https://github.com/user-attachments/assets/9c26d6eb-f023-4cc0-a5cd-d66b510f7e4d)
 #### img3(- 1.02 MB,1024х550, .png) "скріншот"
 ## 2.  Стиснення без втрати якості (lossless)
 ### "фотографія":
@@ -19,9 +19,9 @@
 ![image](https://github.com/user-attachments/assets/2056f58c-ddd4-44dc-91d4-b704744a14ae)
 #### img2(- 211 kB,920х871, .webp) 
 ### "скріншот":
-![image](https://github.com/user-attachments/assets/fdd8804e-633b-4452-ae95-7e397529cddb)
+![image](https://github.com/user-attachments/assets/c381fe31-3c7e-4670-8ad7-f4c5a49ec18b)
 #### img3(- 474 kB,1024х550, .png)
-![image](https://github.com/user-attachments/assets/0f48cb0a-b034-4cd8-8cac-ea4a4feabbe3)
+![image](https://github.com/user-attachments/assets/0953ab17-105f-487d-8088-df438a0aa8a3)
 #### img3(- 181 kB,1024х550, .webp)
 ## 3. Стиснення з втратою якості (lossy)
 ### "фотографія":
@@ -63,23 +63,23 @@
 ![image](https://github.com/user-attachments/assets/cea8524d-82b7-4362-a62d-dc46b43064ab)
 #### img2(- 26.1 kB,920х871, .AVIF,50% стиснення)
 ### "скріншот":
-![image](https://github.com/user-attachments/assets/ff3cd7f0-a46c-4b55-8a61-5819da981fa5)
+![image](https://github.com/user-attachments/assets/0a4a6ee9-ad35-4637-8b03-b701338745db)
 #### img3(- 525 kB,1024х550, .MozJPEG,100% стиснення)
-![image](https://github.com/user-attachments/assets/ce9e0b8b-9cb5-436f-98ce-b4040fcb0d1a)
+![image](https://github.com/user-attachments/assets/922f176f-7071-432f-97da-95e0abedc4a8)
 #### img3(- 36.8 kB,1024х550, .MozJPEG,75% стиснення)
-![image](https://github.com/user-attachments/assets/8cf8076f-8a4f-4ba9-bad4-50901e47d5d0)
+![image](https://github.com/user-attachments/assets/90cf19e6-ac6f-4451-9cd0-6d1e42718646)
 #### img3(- 23.5 kB,1024х550, .MozJPEG,50% стиснення)
-![image](https://github.com/user-attachments/assets/46705548-f94a-479a-83c1-e56236ff44ae)
+![image](https://github.com/user-attachments/assets/b6346d52-2616-4544-9154-5b22d251261b)
 #### img3(- 168 kB,1024х550, .webp,100% стиснення)
-![image](https://github.com/user-attachments/assets/5b02f14c-b805-4166-82ef-c1877af783d7)
+![image](https://github.com/user-attachments/assets/72649a6e-a696-446b-ba0a-62fe6b775362)
 #### img3(- 28.0 kB,1024х550, .webp,75% стиснення)
-![image](https://github.com/user-attachments/assets/b0048c36-56b2-4bc9-b2b2-91f7ccdea653)
+![image](https://github.com/user-attachments/assets/77982f7b-fc02-4b12-9adf-9ffb5c997144)
 #### img3(- 19.6 kB,1024х550, .webp,50% стиснення)
-![image](https://github.com/user-attachments/assets/40646dd6-3da0-4fa8-ad55-d442814e91c7)
+![image](https://github.com/user-attachments/assets/c9974229-19d7-4ba1-baf2-82d78101ddf5)
 #### img3(- 202 kB,1024х550, .AVIF,100% стиснення)
-![image](https://github.com/user-attachments/assets/ca9d095b-fa2a-4aa8-b86f-4e65e475a776)
+![image](https://github.com/user-attachments/assets/4e05f92c-6238-4e3a-b418-7e7415965ea5)
 #### img3(- 49.7 kB,1024х550, .AVIF,75% стиснення)
-![image](https://github.com/user-attachments/assets/b762487f-1148-4d15-9595-5405da9e71c9)
+![image](https://github.com/user-attachments/assets/1e4eeb2d-6b14-4e51-98cd-f2ae8dc106f0)
 #### img3(- 16.6 kB,1024х550, .AVIF,50% стиснення)
 ### **Як показало дослідження мінімальний рівень якості ~50%**  
 ## 4. Оптимізація розміру відповідно до цільового використання
@@ -88,21 +88,21 @@
 #### img1(1200x675,62.1 kB)
 ![image](https://github.com/user-attachments/assets/21447d21-44c5-4646-ad0c-628f9f9eb1af)
 #### img2(1200x645,33.6 kB)
-![image](https://github.com/user-attachments/assets/fe81a731-d5f1-4060-a2a1-a6020ad8b70d)
+![image](https://github.com/user-attachments/assets/b918a730-94bc-4691-ae3e-810bc615abfe)
 #### img3(1200х727,22.4 kB)
 ### **Для мобільних пристроїв:**
 ![image](https://github.com/user-attachments/assets/5aa6aa51-be67-4e68-9120-94cffebac6bf)
 #### img1(600x337,20.1 kB)
 ![image](https://github.com/user-attachments/assets/f8a28f3d-06b4-427c-a9a5-4a223879511e)
 #### img2(600x322,18.3 kB)
-![image](https://github.com/user-attachments/assets/8204a615-d3f8-415e-b2c9-80fe03f4e31f)
+![image](https://github.com/user-attachments/assets/1fc6785e-927c-4a3e-b30c-520e52c8164f)
 #### img3(600х364,11.7 kB)
 ### **Для Retina-дисплеїв:**
 ![image](https://github.com/user-attachments/assets/268a4ebe-c04e-42f4-b9b5-e079590f9abc)
 #### img1(2480x1394,123 kB)
 ![image](https://github.com/user-attachments/assets/8d6f8499-f1c3-4492-83ba-1f82425f76bd)
 #### img2(2048x1100,56.3 kB)
-![image](https://github.com/user-attachments/assets/e92b9ba2-500a-4298-8c5a-4db9aac94dbb)
+![image](https://github.com/user-attachments/assets/4084109a-d050-4239-b2e9-b6914c3ecc89)
 #### img3(1716х1040,32.1 kB)
 ## 5. Візуальний аналіз та висновки
 ### Таблиця порівняння розмірів файлів
